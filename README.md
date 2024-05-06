@@ -6,10 +6,13 @@ O banco de dados utilizado foi disponibilizado pela Alura durante o curso, para 
 
 ### Dashboard:
 
-![](URL_da_imagem)
-
-![](URL_da_imagem)
-
-![](URL_da_imagem)
-
 [Vídeo do dashboard](https://youtu.be/i0qA3CPWBdw0)
+
+Imagens:
+
+![](https://github.com/GrazielleHenrique/Dashboard-E-Commerce/blob/main/Imagens/imagem_relatorio.png)
+
+![](https://github.com/GrazielleHenrique/Dashboard-E-Commerce/blob/main/Imagens/imagem_relatorio_1.png)
+
+![](https://github.com/GrazielleHenrique/Dashboard-E-Commerce/blob/main/Imagens/imagem_relatorio_2.png)
+
